@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Eliyas0007
-- 👀 I’m interested in video prediction
+- 👀 I’m interested in deep learning based computer vision
 - 🌱 I’m currently working on video prediction
 
 <!---
